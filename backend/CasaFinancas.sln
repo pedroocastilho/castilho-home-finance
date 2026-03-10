@@ -1,0 +1,18 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaFinancas.Domain", "src\CasaFinancas.Domain\CasaFinancas.Domain.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaFinancas.Application", "src\CasaFinancas.Application\CasaFinancas.Application.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaFinancas.Infrastructure", "src\CasaFinancas.Infrastructure\CasaFinancas.Infrastructure.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaFinancas.WebApi", "src\CasaFinancas.WebApi\CasaFinancas.WebApi.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaFinancas.Tests", "tests\CasaFinancas.Tests\CasaFinancas.Tests.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567895}"
+EndProject
+Global
+  GlobalSection(SolutionConfigurationPlatforms) = preSolution
+    Debug|Any CPU = Debug|Any CPU
+    Release|Any CPU = Release|Any CPU
+  EndGlobalSection
+EndGlobal
