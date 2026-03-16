@@ -1,6 +1,8 @@
 # castilho-home-finance
 
-Sistema de controle de gastos residenciais desenvolvido como teste técnico para a vaga de Desenvolvedor Full Stack. Permite cadastrar pessoas, categorias e transações financeiras, com consulta de totais por pessoa e por categoria.
+Sistema de controle de gastos residenciais desenvolvido com .NET 9 e React 18. 
+Permite cadastrar pessoas, categorias e transações financeiras, com consulta 
+de totais por pessoa e por categoria.
 
 ## Stack
 
