@@ -90,3 +90,7 @@ castilho-home-finance/
         ├── services/
         └── types/
 ```
+
+---
+
+*Pedro Castilho • castilhodev.com.br • github.com/pedroocastilho*
